@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JonasContact</string>
+    <string name="new_anniv">Nouvel Anniversaire</string>
+    <string name="infos">Informations</string>
+    <string name="name_holder">Nom et Prénom</string>
+    <string name="birth_holder">Date de naissance</string>
+    <string name="poursms">Pour SMS</string>
+</resources>
